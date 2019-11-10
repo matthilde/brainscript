@@ -2,6 +2,9 @@
 
 Brainscript is a variant of Brainfuck inspired by modern programming languages like JavaScript or C++. The interpreter is written in Python. This variant contains a function system allowing you to make function calls in your code.
 
+## Wait what's the point of this project?
+Just for fun. It's just some side personal project I decided to make because yes.
+
 ## Quick Start
 
 ### First code
