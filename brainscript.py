@@ -2,10 +2,6 @@
 BrainScript by h34
 Copyright (C) h34ting4ppliance 2019
 Licensed under GNU GPL version 3 because yes.
-}
-
-You can even eval normal brainfuck code :
-eval(++[>+++<-])
 """
 
 import sys, getch # Will need it for later
