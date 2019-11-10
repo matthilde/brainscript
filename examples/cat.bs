@@ -1,0 +1,49 @@
+
+relative:prtChar {;
+	print();
+	!;
+		sub();
+	?;
+};
+
+relative:sayInput {;
+	add(73);
+	prtChar();
+	add(110);
+	prtChar();
+	add(112);
+	prtChar();
+	add(117);
+	prtChar();
+	add(116);
+	prtChar();
+	add(32);
+	prtChar();
+	add(58);
+	prtChar();
+	add(32);
+	prtChar();
+};
+
+absolute:main {;
+	sayInput();
+	right();
+	input();
+	sub(13);
+	!;
+		add(13);
+		right();
+		input();
+		sub(13);
+	?;
+	left();
+	!;
+		left();
+	?;
+	
+	right();
+	!;
+		print();
+		right();
+	?;
+};
