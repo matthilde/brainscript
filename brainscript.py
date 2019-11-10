@@ -1,17 +1,7 @@
 """
 BrainScript by h34
-Programming language inspired of JavaScript
-but it's Brainfuck
-
-Still turing-complete
-But you can make functions.
-
-+ = add(number);
-- = sub(number);
-etc.
-
-function example:rel {
-add(2);
+Copyright (C) h34ting4ppliance 2019
+Licensed under GNU GPL version 3 because yes.
 }
 
 You can even eval normal brainfuck code :
